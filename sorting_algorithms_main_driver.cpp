@@ -39,3 +39,8 @@
 * 2. Copy from this array as many elements as needed into the seven target directories
 *     (to make this efficiently, consider to use the function memcpy() of string.h).
 */
+
+int main(int argc, char const *argv[]) {
+  /* code */
+  return 0;
+}
