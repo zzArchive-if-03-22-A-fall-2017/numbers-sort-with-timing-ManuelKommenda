@@ -21,5 +21,8 @@
 *** to initialize an array with a number of random elements.
 */
 
+int* init_random(int* array, int length);
+void bubble_sort(int* array, int length);
+void insertion_sort(int* array, int length);
 
 #endif
